@@ -9,7 +9,7 @@ const HomeScreen: React.FC = () => {
       <View style={styles.header}>
         <Ionicons name="menu" size={28} color="#fff" />
         <Image
-          source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Coat_of_arms_of_Honduras.svg' }} // Cambia por tu logo
+          source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Escudo_de_la_Universidad_Central_del_Ecuador_-_Andr%C3%A9s_Agual.png/250px-Escudo_de_la_Universidad_Central_del_Ecuador_-_Andr%C3%A9s_Agual.png' }} // Cambia por tu logo
           style={styles.logo}
         />
       </View>
